@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: test123
+Bundle-SymbolicName: test123
+Bundle-Version: 1.0.0.qualifier
+Export-Package: kr.or.nextit
