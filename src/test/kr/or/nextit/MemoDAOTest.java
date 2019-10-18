@@ -11,7 +11,7 @@ import kr.or.nextit.memo.MemoVO;
 
 public class MemoDAOTest {
 
-	@Test
+//	@Test
 	public void test() throws Exception{
 		MemoDAO dao = new MemoDAO();
 		List<MemoVO> list = dao.selectMemoList();
@@ -24,7 +24,7 @@ public class MemoDAOTest {
 		
 		
 	}
-	@Test
+//	@Test
 	public void testUpdateMemo() throws Exception{
 		MemoDAO dao = new MemoDAO();
 		MemoVO vo = new MemoVO();

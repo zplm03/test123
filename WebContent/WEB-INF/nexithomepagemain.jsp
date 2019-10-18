@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+<h1>넥스트 아이티 홈페이지 메인</h1>
 
 </body>
 </html>
